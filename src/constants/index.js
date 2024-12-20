@@ -57,6 +57,49 @@ export const navLinks = [
   ];
   
   export const myProjects = [
+
+    {
+      title: 'WatchTower: San Juan Web Admin',
+      desc: 'A Disaster Management Mern Stack Web Application For Handling Real-Time Reports from WatchTower Citizen Mobile That Uses Random Forest Tree Algorithm To Assign Values Based On Their Category and Description',
+      subdesc:
+        'Built as a unique React, Express JS, Node, and MongoDB for optimal performance and scalability.',
+      href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+      texture: '/textures/project/project1.mp4',
+      logo: '/assets/projectWT-logo.png',
+      logoStyle: {
+        backgroundColor: '#13202F',
+        border: '0.2px solid #17293E',
+        boxShadow: '0px 0px 60px 0px #2F6DB54D',
+      },
+      spotlight: '/assets/spotlight1.png',
+      tags: [
+        {
+          id: 1,
+          name: 'React.js',
+          path: '/assets/react.svg',
+        },
+        {
+          id: 2,
+          name: 'Node.js',
+          path: 'assets/nodejs.png',
+        },
+        {
+          id: 3,
+          name: 'Express.js',
+          path: 'assets/express.png',
+        },
+        {
+          id: 4,
+          name: 'MongoDB',
+          path: '/assets/mongodb.png',
+        },
+        {
+          id: 5,
+          name: 'Python',
+          path: '/assets/python.png',
+        },
+      ],
+    },
     {
       title: 'Podcastr - AI Podcast Platform',
       desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
