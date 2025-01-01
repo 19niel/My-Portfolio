@@ -78,12 +78,12 @@ export const navLinks = [
       ],
     },
     {
-      title: 'More Projects in progress hopefully',
-      desc: 'unreleased yet',
+      title: 'A Project Is In Progress',
+      desc: 'Unreleased yet',
       subdesc:
         'unreleased',
       href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
-      texture: '/textures/project/project5.mp4',
+      texture: '/textures/project/comingsoon.mp4',
       logo: '/assets/project-logo5.png',
       logoStyle: {
         backgroundColor: '#1C1A43',
@@ -95,22 +95,22 @@ export const navLinks = [
         {
           id: 1,
           name: 'React.js',
-          path: '/assets/react.svg',
+          path: '/assets/unknown.png',
         },
         {
           id: 2,
           name: 'TailwindCSS',
-          path: 'assets/tailwindcss.png',
+          path: 'assets/unknown.png',
         },
         {
           id: 3,
           name: 'TypeScript',
-          path: '/assets/typescript.png',
+          path: '/assets/unknown.png',
         },
         {
           id: 4,
           name: 'Framer Motion',
-          path: '/assets/framer.png',
+          path: '/assets/unknown.png',
         },
       ],
     },
