@@ -25,7 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Nathaniel</p>
               <p className="grid-subtext">
-                Graduated from Technological Institute of The Philippines, I have honed my skills in prompting through ChatGPT, creating unoriginal
+                A Student from Technological Institute of The Philippines, I have honed my skills in prompting through ChatGPT, creating unoriginal
                 and messy hardcoded websites.
               </p>
             </div>
