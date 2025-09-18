@@ -43,6 +43,21 @@ const Footer = () => {
             onClick={handleUnavailableClick} // Attach click handler
           />
         </div>
+
+      
+
+        <div className='social-icon'>
+          <a
+           href='https://www.linkedin.com/in/ntalag-22asd'
+            src='/assets/linkedin.svg'
+            alt='linkedin'
+            target='_blank'
+            rel='noopener noreferrer'
+            className='flex items-center justify-center'
+          >
+            <img src='/assets/linkedin.svg' alt='github' className='w-1/2 h-1/2' />
+          </a>
+        </div>
       </div>
 
       <p className='text-white-500'>© 2024 Nathaniel. All Rights Reserved.</p>

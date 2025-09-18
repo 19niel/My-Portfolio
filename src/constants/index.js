@@ -81,7 +81,7 @@ export const navLinks = [
       title: 'A Project Is In Progress',
       desc: 'Unreleased yet',
       subdesc:
-        'unreleased',
+        'Soon To Be Announced',
       href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
       texture: '/textures/project/comingsoon.mp4',
       logo: '/assets/project-logo5.png',
@@ -128,23 +128,32 @@ export const navLinks = [
   };
   
   export const workExperiences = [
-    {
+     {
       id: 1,
-      name: 'Intern',
-      pos: 'Unknown',
+      name: 'BSIT Graduate',
+      pos: 'College Degree',
       duration: '2025',
-      title: "Still finding a company",
-      icon: '/assets/unknown.png',
-      animation: 'salute',
+      title: "Technological Institute of the Philippines",
+      icon: '/assets/tip_logo.png',
+      animation: 'clapping',
     },
     {
       id: 2,
+      name: 'Intern',
+      pos: 'Technical Support Engineer',
+      duration: '2025',
+      title: "Equitable Computer Services, Inc.",
+      icon: '/assets/ecs.png',
+      animation: 'salute',
+    },
+    {
+      id: 3,
       name: 'Soon',
       pos: 'Unknown',
       duration: 'Unknown',
-      title: "Not Graduated Yet",
+      title: "Actively Looking for Opportunities",
       icon: '/assets/unknown.png',
-      animation: 'clapping',
+      animation: 'victory',
     },
 
   ];

@@ -25,8 +25,8 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Nathaniel</p>
               <p className="grid-subtext">
-                A Student from Technological Institute of The Philippines, I have honed my skills in prompting through ChatGPT, creating unoriginal
-                and messy hardcoded websites.
+                A BSIT graduate from Technological Institute of The Philippines, I have honed my skills in ReactJS, React Native, Laravel, Python, C#/C++, MongoDB and SQL through
+                various projects.
               </p>
             </div>
           </div>
@@ -76,8 +76,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">My Passion for Coding</p>
               <p className="grid-subtext">
-                I love visualizing and building things through code. Programming isn't just my
-                profession—it's my nightmare. I enjoy exploring new technologies, and enhancing my skills.
+                I love visualizing and building things through code. I enjoy exploring new technologies, and enhancing my skills.
               </p>
             </div>
           </div>
@@ -95,7 +94,7 @@ const About = () => {
               <p className="grid-subtext text-center">Contact me</p>
               <div className="copy-container" onClick={handleCopy}>
                 <img src={hasCopied ? 'assets/tick.svg' : 'assets/copy.svg'} alt="copy" />
-                <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">kungfayla@gmail.com</p>
+                <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">n.talag.it@gmail.com</p>
               </div>
             </div>
           </div>
